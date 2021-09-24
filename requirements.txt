@@ -1,1 +1,2 @@
 omxplayer-wrapper==0.3.3
+dbus-1 >= 1.8
